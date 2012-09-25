@@ -19,7 +19,7 @@ Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://event
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader.png)
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader2.png)
 
-###buffre
+###buffer
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader3.png)
 
 ##three.js
@@ -38,8 +38,8 @@ Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://event
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/ray1.png)
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/ray2.png)
 
-##othres
+##others
 
-###phisics
-![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/phisics.png)
-![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/phisics2.png)
+###physics
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/physics.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/physics2.png)
