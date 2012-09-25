@@ -4,7 +4,7 @@ Feel free to use these figures for your blog, slides and others. these are relea
 
 (c) yomotsu ( https://github.com/yomotsu/figures-to-explain-webgl-threejs )
 
-Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://events.html5j.org/conference/2012/09/) and I created these images for my slide.
+Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://events.html5j.org/conference/2012/09/) and I created these images for [my slide](www.slideshare.net/yomotsu/webgl-and-threejs).
 
 ##WebGL
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/flow-of-webgl.png)
