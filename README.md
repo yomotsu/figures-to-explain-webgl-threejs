@@ -7,39 +7,39 @@ Feel free to use these figures for your blog, slides and others. these are relea
 Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://events.html5j.org/conference/2012/09/) and I created these images for my slide.
 
 ##WebGL
-![](/thumbnail/flow-of-webgl.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/flow-of-webgl.png)
 
 ###gpu and cpu
-![](/thumbnail/cpu-gpu.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/cpu-gpu.png)
 
 ###variables
-![](/thumbnail/vars.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/vars.png)
 
 ###shaders
-![](/thumbnail/shader.png)
-![](/thumbnail/shader2.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader2.png)
 
 ###buffre
-![](/thumbnail/shader3.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader3.png)
 
 ##three.js
 
 ###scene
-![](/thumbnail/scene.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/scene.png)
 
 ###camera
-![](/thumbnail/camera.png)
-![](/thumbnail/camera2.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/camera.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/camera2.png)
 
 ###mesh
-![](/thumbnail/mesh.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/mesh.png)
 
 ###ray
-![](/thumbnail/ray1.png)
-![](/thumbnail/ray2.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/ray1.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/ray2.png)
 
 ##othres
 
 ###phisics
-![](/thumbnail/phisics.png)
-![](/thumbnail/phisics2.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/phisics.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/phisics2.png)
