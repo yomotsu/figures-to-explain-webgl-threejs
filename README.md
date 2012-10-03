@@ -11,7 +11,7 @@ Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://event
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/flow-of-webgl.png)
 
 ###history
-![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/chronology.png)
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/history.png)
 
 ###gpu and cpu
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/cpu-gpu.png)
