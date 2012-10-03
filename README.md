@@ -1,23 +1,23 @@
 #Figures to explain WebGL and three.js
 
-Feel free to use these figures for your blog, slides and others. these are released under the MIT License.
+Feel free to use these figures for your blog, slides and others. these were released under the MIT License.
 
 (c) yomotsu ( https://github.com/yomotsu/figures-to-explain-webgl-threejs )
 
-Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://events.html5j.org/conference/2012/09/) and I created these images for [my slide](http://www.slideshare.net/yomotsu/webgl-and-threejs).
-
-##WebGL
-![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/flow-of-webgl.png)
+Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://events.html5j.org/conference/2012/09/). so I've created these for [my slide](http://www.slideshare.net/yomotsu/webgl-and-threejs).
 
 ###gpu and cpu
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/cpu-gpu.png)
 
-###variables
-![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/vars.png)
+##WebGL
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/flow-of-webgl.png)
 
 ###shaders
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader.png)
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader2.png)
+
+###variables
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/vars.png)
 
 ###buffer
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader3.png)
