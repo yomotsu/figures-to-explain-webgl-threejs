@@ -6,11 +6,15 @@ Feel free to use these figures for your blog, slides and others. these were rele
 
 Recently, I spoke about WebGL and three.js at [HTML5 Conf in Tokyo](http://events.html5j.org/conference/2012/09/). so I've created these for [my slide](http://www.slideshare.net/yomotsu/webgl-and-threejs).
 
-###gpu and cpu
-![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/cpu-gpu.png)
 
 ##WebGL
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/flow-of-webgl.png)
+
+###history
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/chronology.png)
+
+###gpu and cpu
+![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/cpu-gpu.png)
 
 ###shaders
 ![](https://raw.github.com/yomotsu/figures-to-explain-webgl-threejs/master/thumbnail/shader.png)
